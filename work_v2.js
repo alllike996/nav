@@ -2403,7 +2403,7 @@ async exportConfig(request, env, ctx) {
       <aside id="sidebar" class="sidebar fixed left-0 top-0 h-full w-64 bg-white shadow-md border-r border-primary-100/60 z-50 overflow-y-auto mobile-sidebar lg:transform-none transition-all duration-300">
         <div class="p-6">
           <div class="flex items-center justify-between mb-8">
-            <h2 class="text-2xl font-bold text-primary-600 tracking-tight">拾光集</h2>
+            <h2 class="text-2xl font-bold text-primary-600 tracking-tight">稳得呀</h2>
             <button id="closeSidebar" class="p-1 rounded-full hover:bg-gray-100 lg:hidden">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
@@ -2476,7 +2476,7 @@ async exportConfig(request, env, ctx) {
               <span class="inline-flex items-center gap-2 rounded-full bg-primary-600/70 px-3 py-1 text-[11px] uppercase tracking-[0.28em] text-secondary-200/80">
                 精选 · 真实 · 有温度
               </span>
-              <h1 class="mt-4 text-3xl md:text-4xl font-semibold tracking-tight">拾光集导航</h1>
+              <h1 class="mt-4 text-3xl md:text-4xl font-semibold tracking-tight">稳得呀导航</h1>
               <p class="mt-3 text-sm md:text-base text-secondary-100/90 leading-relaxed">
                 从效率工具到灵感站点，我们亲自挑选、亲手标注，只为帮助你更快找到值得信赖的优质资源。
               </p>
@@ -2578,7 +2578,7 @@ async exportConfig(request, env, ctx) {
         <!-- 页脚 -->
         <footer class="bg-white py-8 px-6 mt-12 border-t border-primary-100">
           <div class="max-w-5xl mx-auto text-center">
-            <p class="text-gray-500">© ${new Date().getFullYear()} 拾光集 | 愿你在此找到方向</p>
+            <p class="text-gray-500">© ${new Date().getFullYear()} 稳得呀 | 愿你在此找到方向</p>
             <div class="mt-4 flex justify-center space-x-6">
               <a href="https://www.wangwangit.com/" target="_blank" class="text-gray-400 hover:text-primary-500 transition-colors">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
