@@ -2478,7 +2478,7 @@ async exportConfig(request, env, ctx) {
               </span>
               <h1 class="mt-4 text-3xl md:text-4xl font-semibold tracking-tight">稳得呀导航</h1>
               <p class="mt-3 text-sm md:text-base text-secondary-100/90 leading-relaxed">
-                从效率工具到灵感站点，我们亲自挑选、亲手标注，只为帮助你更快找到值得信赖的优质资源。
+                从效率工具到灵感站点，我们亲自挑选、亲手标注，只为更快找到值得信赖的优质资源。
               </p>
             </div>
             <div class="w-full md:w-auto flex justify-center md:justify-end">
