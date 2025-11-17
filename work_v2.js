@@ -2237,9 +2237,9 @@ async exportConfig(request, env, ctx) {
     <head>
       <meta charset="UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>拾光集 - 精品网址导航</title>
+      <title>稳得呀 - 精品网址导航</title>
       <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet"/>
-      <link rel="icon" href="https://www.wangwangit.com/images/head/a.webp" type="image/webp"/>
+      <link rel="icon" href="https://cdn.jsdelivr.net/gh/alllike996/image/bed/wen1xiugai.png" type="image/png"/>
       <script src="https://cdn.tailwindcss.com"></script>
       <script>
         tailwind.config = {
